@@ -1,7 +1,11 @@
 aid: csx
-url: https://raw.githubusercontent.com/api-evangelist/csx/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/csx/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.csx.com
+description: >-
+  CSX is a premier transportation supplier in North America operating one of the largest
+  freight rail networks in the eastern United States.
