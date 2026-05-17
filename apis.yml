@@ -1,6 +1,6 @@
 aid: csx
 url: https://raw.githubusercontent.com/api-evangelist/csx/refs/heads/main/apis.yml
-x-type: company
+kind: company
 name: CSX Corporation
 description: >-
   CSX Corporation is a Class I freight railroad operating one of the largest
@@ -17,7 +17,6 @@ tags:
   - Rail
   - Transportation
   - Fortune 500
-type: Company
 access: 3rd-Party
 specificationVersion: '0.19'
 created: '2026-03-21'
