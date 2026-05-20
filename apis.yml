@@ -43,6 +43,8 @@ useCases:
   - name: Fleet Management
     description: Private railcar fleet owners track utilization and locations across the network.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/csx-transportation
   - url: https://www.csx.com
     type: Website
   - url: https://shipcsx.com
