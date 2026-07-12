@@ -43,6 +43,10 @@ useCases:
   - name: Fleet Management
     description: Private railcar fleet owners track utilization and locations across the network.
 common:
+  - type: VulnerabilityDisclosure
+    url: security/csx-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/csx-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/csx-transportation
   - url: https://www.csx.com
