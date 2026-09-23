@@ -1,7 +1,9 @@
 ---
 title: CSX CEO Touts AI Efficiency, U.S.-Led Growth and Service ...
 url: https://finance.yahoo.com/news/csx-ceo-touts-ai-efficiency-030715155.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"CSX" press release artificial intelligence'
 position: 2
 source: serpapi-google

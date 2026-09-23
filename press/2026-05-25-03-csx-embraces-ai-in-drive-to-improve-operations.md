@@ -1,7 +1,9 @@
 ---
 title: CSX embraces AI in drive to improve operations
 url: https://www.facebook.com/TrainsMagazine/posts/csx-embraces-ai-in-drive-to-improve-operations/1451690377002573/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"CSX" press release artificial intelligence'
 position: 3
 source: serpapi-google
