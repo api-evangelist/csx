@@ -24,7 +24,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/csx.png
 url: https://raw.githubusercontent.com/api-evangelist/csx/refs/heads/main/apis.yml
 kind: company
-name: CSX Corporation
+name: CSX
 description: >-
   CSX Corporation is a Class I freight railroad operating one of the largest
   rail networks in the eastern United States, serving 23 states with roughly
@@ -87,3 +87,4 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-legal-name: CSX Corporation
