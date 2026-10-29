@@ -1,4 +1,4 @@
-# CSX Corporation (csx)
+# CSX
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,47 +66,79 @@
 
 CSX Corporation is a Class I freight railroad operating one of the largest rail networks in the eastern United States, serving 23 states with roughly 20,000 route miles of track. CSX moves bulk commodities, intermodal shipments, and merchandise for industrial customers and operates the ShipCSX customer portal for shipment management, EDI integration, and freight tracking.
 
-**APIs.yml URL:** https://raw.githubusercontent.com/api-evangelist/csx/refs/heads/main/apis.yml
+**Areas:** Class I Railroad · Freight · Intermodal · Logistics · Rail · Transportation · Fortune 500
 
-## Scope
+## CSX on APIs.io
 
-- **Type:** Company
-- **x-type:** company
-- **Access:** 3rd-Party
+Everything profiled for CSX is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/csx/](https://apis.io/providers/csx/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-Class I Railroad, Freight, Intermodal, Logistics, Rail, Transportation, Fortune 500
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (2)
 
-CSX does not publish a public open developer API at this time. Customer integrations are delivered through:
+Authentication, trust centre, and vulnerability disclosure.
 
-- ShipCSX customer portal at https://shipcsx.com
-- B2B EDI for shipment tendering, status, and invoicing (typical rail EDI sets such as 204, 214, 322, 410)
+- [Csx Domain Security](https://apis.io/security/csx/csx-domain-security/)
+- [Csx Vulnerability Disclosure](https://apis.io/security/csx/csx-vulnerability-disclosure/)
 
-## Features
+## Where to find this API
 
-- ShipCSX customer portal for orders, waybills, and tracking
-- EDI integration for shipment tendering and status
-- Real-time and historical shipment tracking
-- Customer pricing and contract management
-- Intermodal services (container and trailer-on-flatcar)
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## Use Cases
+- [Website](https://www.csx.com)
+- [Blog](https://www.csx.com/index.cfm/customers/news/)
 
-- Industrial shipper operations
-- 3PL and TMS shipment-status integration
-- Intermodal drayage coordination
-- Private railcar fleet management
+## API Evangelist rating
 
-## Resources
+**Kin Score 6.7** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-- Website: https://www.csx.com
-- ShipCSX Portal: https://shipcsx.com
-- Customers: https://www.csx.com/index.cfm/customers/
-- Investor Relations: https://investors.csx.com/
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 0.0 |
 
-## Maintainers
+**Agent readiness 0.0** — human-only
 
-- Kin Lane (kin@apievangelist.com)
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 11.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/csx/](https://apis.io/providers/csx/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for CSX: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/csx/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
